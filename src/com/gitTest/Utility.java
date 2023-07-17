@@ -73,7 +73,6 @@ public class Utility {
             }
             break;
         }
-
         return line;
     }
 }
